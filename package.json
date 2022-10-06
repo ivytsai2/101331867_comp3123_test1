@@ -1,0 +1,13 @@
+{
+  "name": "101331867_comp3123_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "q1": "node ./question-1/server.js",
+    "q2": "node ./question-2/server.js",
+    "q3": "node ./question-3/server.js"
+  },
+  "author": "Hsin Yu Ivy Tsai",
+  "license": "ISC"
+}
